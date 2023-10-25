@@ -1,4 +1,4 @@
-# Vivy110
+# class AptosSocialNetwork
 class AptosSocialNetwork:
     def __init__(self):
         # Initialize the database to store user accounts and posts
